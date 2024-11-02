@@ -1,6 +1,10 @@
 [package]
 name = "linux_terminal_notify"
 version = "0.1.0"
-edition = "2021"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+edition = "2018"
+license = "MIT"
+description = "A Rust library for sending terminal notifications on Linux systems."
+repository = "https://github.com/bensatlantik/linux_terminal_notify"
 
 [dependencies]

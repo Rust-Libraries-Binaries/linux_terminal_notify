@@ -1,1 +1,5 @@
-/target
+# Ignore the Cargo.lock file, which is generated for libraries.
+Cargo.lock
+
+# Ignore the target directory, which is where compiled files are stored.
+target/
