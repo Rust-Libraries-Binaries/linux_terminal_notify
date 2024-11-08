@@ -1,3 +1,7 @@
+## Archived Repository
+
+**This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.**
+
 ## Linux Terminal Notify
 
 **linux_terminal_notify** is a lightweight Rust library for sending terminal notifications on Linux systems. It allows developers to easily send customizable notifications directly to the terminal, enhancing the user experience with real-time alerts.
@@ -48,4 +52,4 @@ fn main() {
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
-Ben Santora <bensatlantik@gmail.com>
+Ben Santora 
